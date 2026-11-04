@@ -1,0 +1,4 @@
+# Préserver les octets des livraisons et les empreintes de contrôle existantes.
+* -text
+*.png binary
+*.zip binary

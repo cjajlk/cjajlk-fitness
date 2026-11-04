@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ex-01",
+    "name": "Ouverture de poitrine assise",
+    "file": "./assets/exercises/ex-01.png",
+    "bytes": 2062268,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "02997441e93058f92e2ef86f868cf7e1a07d3b25a50e63ee3f101e151abacd4d",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-02",
+    "name": "Rotation du buste assise",
+    "file": "./assets/exercises/ex-02.png",
+    "bytes": 1953462,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f3f0886bf4cf1aa7d0e5ffdcd6246b96814f93c2da6d29514ce14762e01ca560",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-03",
+    "name": "Marche assise",
+    "file": "./assets/exercises/ex-03.png",
+    "bytes": 1990307,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ca84c6af147718819471277a1585d763f9c25a6257da3b2551a79a26b703790f",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-04",
+    "name": "Pointes et flexions de cheville",
+    "file": "./assets/exercises/ex-04.png",
+    "bytes": 2016811,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "72c696d113534c74cb3b9a675022ce54a950d7f9f72915cf8ee509e25bc0adfd",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-05",
+    "name": "Rotation douce de la tête",
+    "file": "./assets/exercises/ex-05.png",
+    "bytes": 1996060,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "e70e38378a03647ef171bc40a59911c6f239884011d0815f56422dc5b634c944",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-06",
+    "name": "Se lever d’une chaise",
+    "file": "./assets/exercises/ex-06.png",
+    "bytes": 2034707,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ad8c73b7f0152de7324a520ceaaf22a40bba07f9f028ca66314746ed6abf7609",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.412121212121214
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.412121212121214
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.61212121212121,
+            "w": 49.2,
+            "h": 52.98787878787879
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.61212121212121,
+            "w": 49.2,
+            "h": 52.98787878787879
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-07",
+    "name": "Petit squat avec appui",
+    "file": "./assets/exercises/ex-07.png",
+    "bytes": 1974283,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9dc5ccd21e85d9e89f4a60ece0f4067b85f1d4abec17908e7beb0a4a6e40f934",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-08",
+    "name": "Montée sur les pointes",
+    "file": "./assets/exercises/ex-08.png",
+    "bytes": 1940550,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a9ad2e9fb8a5936382abf70d13ddd02dd35401d9e73acf3c0eeca452da59f902",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-09",
+    "name": "Élévation latérale de jambe",
+    "file": "./assets/exercises/ex-09.png",
+    "bytes": 1995128,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "cd75a9e9219ced3e10dc22cd938b592f5c75fa589ea6b790bd029f2649ac416e",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-10",
+    "name": "Extension de hanche debout",
+    "file": "./assets/exercises/ex-10.png",
+    "bytes": 1978956,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "17ef009b1d17506cc7efd6a1428367ecba8b323051dafd77f2baddd68886cf57",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-11",
+    "name": "Pompe au mur",
+    "file": "./assets/exercises/ex-11.png",
+    "bytes": 2142490,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "ff1749ff11437064d4fe395f84f49dc2c3873f56d9fcd51778aba3658a675d62",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.5317384370016
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.731738437001596,
+            "w": 49.2,
+            "h": 52.868261562998406
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-12",
+    "name": "Flexion des coudes",
+    "file": "./assets/exercises/ex-12.png",
+    "bytes": 1959919,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a50f7fef2d2794b849335b1959415cd70993cf0862bba4576ccb747904eaa986",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-13",
+    "name": "Inclinaison douce du cou",
+    "file": "./assets/exercises/ex-13.png",
+    "bytes": 1957968,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "785cf838c36c3ede86e1e1a7316cd6263e4d6fa8bebb98c9feaf8e648fae72a8",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-14",
+    "name": "Inclinaison latérale du buste",
+    "file": "./assets/exercises/ex-14.png",
+    "bytes": 1953473,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "7339de6db7a3fdc703f260d9c46854a8e44ee585c373f2aef5854c6669fe4377",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-15",
+    "name": "Étirement doux du mollet",
+    "file": "./assets/exercises/ex-15.png",
+    "bytes": 2105422,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "03200b3746868b06b56e65df0be19a3f50862b392eeeabe7cfbf9108e9badb49",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-16",
+    "name": "Pas latéraux",
+    "file": "./assets/exercises/ex-16.png",
+    "bytes": 1962542,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "91c2da006c8d5edcff2e69079a1694bf5958b851ca202b7c94bb9a54913b2f91",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-17",
+    "name": "Pas croisés avec appui",
+    "file": "./assets/exercises/ex-17.png",
+    "bytes": 1988694,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "1d4367b40edb2c411298647fee5e6acabe100e318de2fd08d34325e75920da32",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-18",
+    "name": "Marche talon-pointe",
+    "file": "./assets/exercises/ex-18.png",
+    "bytes": 1969190,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "d092c452501e679831c9c4c1ab4ff520201f50a06746a66b71b3a7e5f15ec897",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.2
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.2
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.4,
+            "w": 49.2,
+            "h": 49.2
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.4,
+            "w": 49.2,
+            "h": 49.2
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-19",
+    "name": "Appui sur une jambe accompagné",
+    "file": "./assets/exercises/ex-19.png",
+    "bytes": 1982980,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9dee27d2766d8586d70cfd7bdb2e0af307b9a6326d932941638c8297f28f7583",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 48.16331738437002
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 48.16331738437002
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 49.36331738437001,
+            "w": 49.2,
+            "h": 50.23668261562999
+          },
+          "side": {
+            "x": 50.4,
+            "y": 49.36331738437001,
+            "w": 49.2,
+            "h": 50.23668261562999
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-20",
+    "name": "Tirage avec haltère",
+    "file": "./assets/exercises/ex-20.png",
+    "bytes": 1962160,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "bc5168029c5828023d5dcc76dfcdf4aaaa67426b4699a5fb018d382ac0341bd1",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-21",
+    "name": "Développé couché au sol",
+    "file": "./assets/exercises/ex-21.png",
+    "bytes": 2019219,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "63bdd125308b98d2e0cedc5f7361bbe5b8fe9558a8d8e3d603f81ca8bffda65f",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-22",
+    "name": "Squat avec haltères légers",
+    "file": "./assets/exercises/ex-22.png",
+    "bytes": 2001053,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "1fecee94141cdd338e0fe49e356d128d00ede1b679a7f75fa0d4443d52e265e3",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.412121212121214
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.412121212121214
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.61212121212121,
+            "w": 49.2,
+            "h": 52.98787878787879
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.61212121212121,
+            "w": 49.2,
+            "h": 52.98787878787879
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-23",
+    "name": "Ouverture arrière des bras",
+    "file": "./assets/exercises/ex-23.png",
+    "bytes": 1953711,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "bf28e388b2e28deb1b4ef19af3fd5f4bdff2f65b6d8e6c0da4f2ebfeed92b8d2",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.451993620414676
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.65199362041467,
+            "w": 49.2,
+            "h": 52.94800637958533
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-24",
+    "name": "Extension des triceps avec haltère",
+    "file": "./assets/exercises/ex-24.png",
+    "bytes": 2030690,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "a66d30603fd90bedd0df0ccbecd7b1d12fffd3430ad0ddb9c7c24f2a5cb9088b",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.08038277511962
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.08038277511962
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.28038277511961,
+            "w": 49.2,
+            "h": 49.31961722488039
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.28038277511961,
+            "w": 49.2,
+            "h": 49.31961722488039
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-25",
+    "name": "Pont fessier au sol",
+    "file": "./assets/exercises/ex-25.png",
+    "bytes": 1992478,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "033bc827cc99e0b6201fdf3f4bd6bd8070e36008f060835ddc51fd6141789878",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.2
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.2
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.4,
+            "w": 49.2,
+            "h": 49.2
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.4,
+            "w": 49.2,
+            "h": 49.2
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-26",
+    "name": "Petit enroulement abdominal",
+    "file": "./assets/exercises/ex-26.png",
+    "bytes": 1999483,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "b191f6218b541c6b262a705de71d5f46966d89377c55f6382a032b80bfdd4f7d",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.067091972355136
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.067091972355136
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.26709197235513,
+            "w": 49.2,
+            "h": 49.33290802764487
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.26709197235513,
+            "w": 49.2,
+            "h": 49.33290802764487
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-27",
+    "name": "Bras et jambe opposés à quatre pattes",
+    "file": "./assets/exercises/ex-27.png",
+    "bytes": 2017833,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9caf421f4639e5f7f4d4c30d313b576c751342ef4037616569f87c9a158e9a2d",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.292503987240835
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 45.292503987240835
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 46.49250398724083,
+            "w": 49.2,
+            "h": 53.10749601275917
+          },
+          "side": {
+            "x": 50.4,
+            "y": 46.49250398724083,
+            "w": 49.2,
+            "h": 53.10749601275917
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-28",
+    "name": "Gainage latéral sur genoux",
+    "file": "./assets/exercises/ex-28.png",
+    "bytes": 1976760,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "617698473259cecef8b7e24d93f32119892b846405e1c361050c765c157ddab1",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.2
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.2
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.4,
+            "w": 49.2,
+            "h": 49.2
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.4,
+            "w": 49.2,
+            "h": 49.2
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-29",
+    "name": "Pédalier assis",
+    "file": "./assets/exercises/ex-29.png",
+    "bytes": 2008738,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "444012e926718d4c770dcca1911871c7968bd0d22631c1eb4ce42f6e936d76a8",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 48.64178628389155
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 48.64178628389155
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 49.841786283891544,
+            "w": 49.2,
+            "h": 49.75821371610846
+          },
+          "side": {
+            "x": 50.4,
+            "y": 49.841786283891544,
+            "w": 49.2,
+            "h": 49.75821371610846
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "ex-30",
+    "name": "Découverte du rameur",
+    "file": "./assets/exercises/ex-30.png",
+    "bytes": 2181599,
+    "width": 1254,
+    "height": 1254,
+    "sha256": "f12b17962d1b5b3b10277a13a591b6a265d1b4e319e8059696345bf96820d7dd",
+    "coaches": {
+      "male": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          },
+          "side": {
+            "x": 50.4,
+            "y": 0.4,
+            "w": 49.2,
+            "h": 49.12025518341308
+          }
+        }
+      },
+      "female": {
+        "available": true,
+        "views": {
+          "front": {
+            "x": 0.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          },
+          "side": {
+            "x": 50.4,
+            "y": 50.320255183413074,
+            "w": 49.2,
+            "h": 49.27974481658693
+          }
+        }
+      }
+    }
+  }
+]

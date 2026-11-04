@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-04",
+  "browser": "156.0.4314.58",
+  "results": [
+    "Ancien profil du Lot 2 repris strictement sans modification ni coach imposé",
+    "Sans choix : fiches consultables, aucun coach de remplacement affiché",
+    "Choix féminin : seul le champ coach et la date du profil actif changent, santé intacte",
+    "30 fiches avec coach féminin : deux angles locaux chargés, aucun lien externe",
+    "30 fiches avec coach masculin : deux angles locaux chargés, aucun lien externe",
+    "Commandes Deux angles / Face / Profil : une ou deux images fixes, aucun faux lecteur vidéo",
+    "Recherche sans accents, filtres cumulés, résultat vide et retour conservant la recherche",
+    "Deux profils : préférences indépendantes, choix dans le bilan et modification immédiate dans Profil",
+    "Modification du bilan existant : coach et précautions conservés",
+    "Sauvegarde chiffrée avec les deux coachs lisible par le module de sauvegarde original",
+    "Restauration par l’interface : coach féminin restauré après changement, profils et santé présents",
+    "Choix du coach conservé après fermeture puis réouverture de page",
+    "Hors ligne : les 30 fiches et les deux vues du coach féminin restent disponibles après rechargement et cache HTTP vidé",
+    "Hors ligne : les 30 fiches et les deux vues du coach masculin restent disponibles après rechargement et cache HTTP vidé",
+    "Version féminine déclarée absente : message explicite, aucun coach masculin substitué",
+    "Format Android émulé : deux coachs, fiches, vues et captures à 393 px ; aucun débordement à 320, 393 et 768 px",
+    "Aucune requête externe ni erreur JavaScript dans les parcours testés"
+  ],
+  "errors": [],
+  "remoteRequests": [],
+  "limits": [
+    "Android émulé dans Edge sur PC ; aucun téléphone Android physique disponible",
+    "Serveur statique de test équivalent ; extension VS Code Live Server non pilotée",
+    "Visuels statiques générés par IA, sans animation ni validation clinique individuelle"
+  ]
+}

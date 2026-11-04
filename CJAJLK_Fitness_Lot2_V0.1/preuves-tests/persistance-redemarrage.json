@@ -1,0 +1,6 @@
+{
+  "date": "2026-11-02",
+  "status": "PASS",
+  "browser": "Microsoft Edge, profil de test isolé",
+  "test": "Fermeture complète et relance du contexte persistant : profil, santé, 7 jours disponibles, haltère 10 kg conservés"
+}

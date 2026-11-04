@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-02",
+  "browser": "156.0.4314.58",
+  "results": [
+    "Profil complet créé par le bilan original du Lot 1",
+    "Lot 1 → Lot 2 : profils, santé, matériel, mesures et paramètres strictement identiques",
+    "Disponibilité 7/7 distinguée de la fréquence recommandée",
+    "Recherche sans accents, fiche pédalier, retour avec filtres, précaution et absence de démarrage",
+    "Filtres cumulés et résultat vide",
+    "30 fiches ouvrables avec consignes, adaptations, vigilance et lien de démonstration",
+    "Photo réelle NHS chargée sur demande et affichée",
+    "Export chiffré du Lot 2 conserve les données du Lot 1",
+    "Modification du bilan et restauration chiffrée par l’interface",
+    "Deux profils indépendants, changement de profil et santé du premier préservée",
+    "Persistance IndexedDB après fermeture et réouverture de page",
+    "Mode hors ligne : rechargement, catalogue et fiche accessibles après cache",
+    "Émulation tactile 320, 390 et 768 px : catalogue, filtre, fiche et absence de débordement horizontal",
+    "Aucune statistique fictive sans profil",
+    "Aucune erreur JavaScript non interceptée"
+  ],
+  "errors": [],
+  "limits": [
+    "Émulation mobile Edge sur PC, pas de téléphone Android physique",
+    "Photo NHS ex-06 affichée ; les 30 vidéos/photos n’ont pas toutes été visionnées intégralement",
+    "Redémarrage complet Edge testé séparément (persistance-redemarrage.json) ; redémarrage Windows non testé."
+  ]
+}

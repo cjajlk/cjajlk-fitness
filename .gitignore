@@ -1,0 +1,25 @@
+# Dépendances et fichiers locaux
+node_modules/
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archives de livraison et sauvegardes personnelles exportées
+*.zip
+CJAJLK-Fitness-sauvegarde-*.json
+**/CJAJLK-Fitness-sauvegarde-*.json
+test-backup.json
+visual-test-backup.json
+
+# Profils des navigateurs utilisés pour les tests
+browser-persistence-test/
+coach-restart-browser/
+playwright-report/
+test-results/

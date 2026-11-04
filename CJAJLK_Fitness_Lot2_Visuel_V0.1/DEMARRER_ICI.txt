@@ -1,0 +1,6 @@
+Ouvrir ce dossier dans VS Code.
+Clic droit sur index.html > Open with Live Server.
+Choisir le coach dans Profil.
+Attendre « Visuels prêts hors ligne » avant de couper la connexion.
+Lire README.md pour retrouver les anciens profils et sauvegardes.
+Aucun Python requis. Les images sont fixes, pas animées.

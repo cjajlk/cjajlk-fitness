@@ -1,0 +1,5 @@
+Ouvrir ce dossier dans VS Code.
+Clic droit sur index.html > Open with Live Server.
+Aucun Python requis.
+Lire README.md pour retrouver les profils et les sauvegardes.
+Les démonstrations nécessitent Internet ; les fiches peuvent être mises en cache.

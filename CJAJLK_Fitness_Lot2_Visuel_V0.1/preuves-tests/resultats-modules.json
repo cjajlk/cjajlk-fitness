@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-04",
+  "command": "node --test tests/*.test.mjs",
+  "passed": 11,
+  "failed": 0,
+  "scope": [
+    "5 tests chiffrement du Lot 2 conservés",
+    "30 exercices et précautions identiques",
+    "Recherche et filtres",
+    "30 planches locales : deux coachs, deux vues",
+    "Aucun choix imposé ou déduit du sexe",
+    "Sauvegardes anciennes/nouvelles",
+    "Aucun lien ou lecteur externe"
+  ]
+}
